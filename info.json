@@ -1,0 +1,10 @@
+{
+    "name": "Whatever",
+    "id": "anyID",
+    "task_type": "binclass",
+    "n_num_features": 26,
+    "n_cat_features": 0,
+    "train_size": 67411 ,
+    "val_size": 22470 ,
+    "test_size": 22471 
+}
