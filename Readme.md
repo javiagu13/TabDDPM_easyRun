@@ -43,6 +43,10 @@ I recommend to check the website to make sure that the version will match your C
 pip install torch==1.10.1+cu111 
 ```
 
+If the previous command does not work, it means it is outdated in pip, you will have to find the wheel file and install it from here:
+
+https://download.pytorch.org/whl/torch_stable.html
+
 For more information on GPU installation refer to: 
 
 https://vivek-singh.medium.com/how-to-install-tensorflow-gpu-version-with-jupyter-windows-10-in-8-easy-steps-8797547028a4
